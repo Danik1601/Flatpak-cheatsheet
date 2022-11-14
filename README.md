@@ -1,11 +1,11 @@
-NOTE
+NOTICE
 
 ---
 
 This is my personal combination of useful Flatpak commands and apps.
 This is not affiliated with RedHat or Flatpak community.
 
-NOTICE
+NOTE
 
 ---
 
