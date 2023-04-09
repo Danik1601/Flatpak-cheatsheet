@@ -45,6 +45,7 @@ flatpak install flathub -y io.github.TransmissionRemoteGtk &&
 flatpak install flathub -y org.videolan.VLC &&
 flatpak install flathub -y com.obsproject.Studio &&
 flatpak install flathub -y org.libreoffice.LibreOffice &&
+flatpak install flathub -y org.gnome.SimpleScan &&
 flatpak install flathub -y org.gnome.Firmware &&
 flatpak install flathub -y org.gnome.Connections &&
 flatpak install flathub -y org.gnome.Boxes &&
