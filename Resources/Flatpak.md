@@ -76,7 +76,6 @@ flatpak install flathub -y org.libretro.RetroArch &&
 flatpak install flathub -y com.mojang.Minecraft &&
 flatpak install flathub -y net.minetest.Minetest &&
 flatpak install flathub -y net.openra.OpenRA &&
-
 flatpak install flathub -y org.blender.Blender &&
 flatpak install flathub -y org.darktable.Darktable &&
 flatpak install flathub -y org.audacityteam.Audacity &&
@@ -88,6 +87,7 @@ flatpak install flathub -y org.freecadweb.FreeCAD &&
 flatpak install flathub -y ca.desrt.dconf-editor &&
 flatpak install flathub -y com.github.marktext.marktext &&
 flatpak install flathub -y com.github.GradienceTeam.Gradience &&
+flatpak install flathub -y io.missioncenter.MissionCenter &&
 ```
 
 ---
