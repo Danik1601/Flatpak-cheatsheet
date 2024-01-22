@@ -99,6 +99,27 @@ flatpak install flathub -y org.freedesktop.Platform.VulkanLayer.MangoHud
 
 ---
 
+### Flatpak custom parameters:
+
+#### Enable PWA support in Google Chrome
+
+```
+flatpak override --user \
+  --filesystem=~/.local/share/applications:create \
+  --filesystem=~/.local/share/icons:create \
+ com.google.Chrome
+```
+
+#### Enable MangoHud for all Steam (Flatpak) games
+
+```
+flatpak override --user \
+  --env=MANGOHUD=1 \
+ com.valvesoftware.Steam
+```
+
+---
+
 ### Defaults:
 
 #### Fedora Silverblue:
