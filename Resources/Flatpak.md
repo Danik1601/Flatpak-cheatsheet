@@ -90,6 +90,13 @@ flatpak install flathub -y com.github.GradienceTeam.Gradience &&
 flatpak install flathub -y io.missioncenter.MissionCenter &&
 ```
 
+### Flatpak runtime extensions:
+
+```
+flatpak install flathub -y org.freedesktop.Platform.ffmpeg-full
+flatpak install flathub -y org.freedesktop.Platform.VulkanLayer.MangoHud
+```
+
 ---
 
 ### Defaults:
@@ -120,4 +127,3 @@ flatpak install flathub -y org.gnome.clocks &&
 flatpak install flathub -y org.gnome.eog &&
 flatpak install flathub -y org.gnome.font-viewer &&
 ```
-
