@@ -39,6 +39,7 @@ https://docs.flatpak.org/en/latest/flatpak-command-reference.html
 ```
 flatpak install flathub -y com.google.Chrome &&
 flatpak install flathub -y com.parsecgaming.parsec &&
+flatpak install flathub -y com.rustdesk.RustDesk &&
 flatpak install flathub -y com.anydesk.Anydesk &&
 flatpak install flathub -y com.transmissionbt.Transmission &&
 flatpak install flathub -y io.github.TransmissionRemoteGtk &&
