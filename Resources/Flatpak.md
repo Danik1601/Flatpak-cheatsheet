@@ -53,8 +53,10 @@ flatpak install flathub -y org.gnome.Boxes &&
 flatpak install flathub -y org.gnome.Extensions &&
 flatpak install flathub -y com.mattjakeman.ExtensionManager &&
 flatpak install flathub -y io.github.realmazharhussain.GdmSettings &&
+flatpak install flathub -y page.tesk.Refine &&
 flatpak install flathub -y com.github.tchx84.Flatseal &&
 flatpak install flathub -y tv.kodi.Kodi &&
+flatpak install flathub -y com.github.iwalton3.jellyfin-media-player &&
 flatpak install flathub -y com.usebottles.bottles &&
 flatpak install flathub -y org.gimp.GIMP &&
 flatpak install flathub -y org.kde.krita &&
@@ -89,6 +91,7 @@ flatpak install flathub -y ca.desrt.dconf-editor &&
 flatpak install flathub -y com.github.marktext.marktext &&
 flatpak install flathub -y com.github.GradienceTeam.Gradience &&
 flatpak install flathub -y io.missioncenter.MissionCenter &&
+flatpak install flathub -y net.nokyan.Resources &&
 ```
 
 ### Flatpak runtime extensions:
