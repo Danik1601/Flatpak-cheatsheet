@@ -91,6 +91,7 @@ flatpak install flathub -y ca.desrt.dconf-editor &&
 flatpak install flathub -y com.github.marktext.marktext &&
 flatpak install flathub -y io.missioncenter.MissionCenter &&
 flatpak install flathub -y net.nokyan.Resources &&
+flatpak install flathub io.github.pwr_solaar.solaar &&
 ```
 
 ### Flatpak runtime extensions:
