@@ -89,7 +89,6 @@ flatpak install flathub -y fr.natron.Natron &&
 flatpak install flathub -y org.freecadweb.FreeCAD &&
 flatpak install flathub -y ca.desrt.dconf-editor &&
 flatpak install flathub -y com.github.marktext.marktext &&
-flatpak install flathub -y com.github.GradienceTeam.Gradience &&
 flatpak install flathub -y io.missioncenter.MissionCenter &&
 flatpak install flathub -y net.nokyan.Resources &&
 ```
